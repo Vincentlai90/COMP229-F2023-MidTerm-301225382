@@ -1,3 +1,10 @@
+/* Full name: Lai Minh Huy
+   COMP 229 – Web Application Development
+   Student ID: 301225382
+   Date: 01/11/2023
+   Created by Huy Lai. Copyright Fall 2023. All Rights reserved to Huy Lai
+*/
+
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');
